@@ -3,7 +3,7 @@
 A Flask-based REST API for processing arrays and categorizing data according to VIT Full Stack assignment requirements.
 
 ## API Endpoint
-- **URL:** [https://bajajfinserv-lhkd10l5m-portfoliowebsite.vercel.app/bfhl](https://bajajfinserv-api.vercel.app/bfhl)
+- **URL:** [https://bajajfinserv-api.vercel.app/bfhl](https://bajajfinserv-api.vercel.app/bfhl)
 - **Method:** POST
 - **Content-Type:** application/json
 
